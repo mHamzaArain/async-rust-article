@@ -22,7 +22,7 @@ But this phenomenon is also can be achieved from synchronous stretegy. To clear 
 > Note: High OR low end machine may decide upon your application that is your machine is enough able to run your application perfectly. 
 
 
-## Configurations Before Starting 
+## Lets Start Coding 
 We need to configure atleast two crates for later use.
 
 In ```cargo.toml``` file we pull two creates
